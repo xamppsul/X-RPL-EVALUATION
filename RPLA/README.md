@@ -56,9 +56,9 @@ Sistem penilaian menggunakan format **rebutan** yang dimainkan secara berkelompo
 
 | Kelompok | Soal Benar | Total Skor | Skor Maksimum |
 |----------|------------|------------|----------------|
-| Group A  | 2          | 200        | 400            |
+| Group A  | 1          | 100        | 400            |
 | Group B  | 1          | 100        | 400            |
-| Group C  | 1          | 100        | 400            |
+| Group C  | 2          | 200        | 400            |
 
 > Kolom skor dapat diisi setelah sesi kuis rebutan selesai dilaksanakan.
 
