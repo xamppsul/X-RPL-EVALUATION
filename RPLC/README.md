@@ -8,7 +8,7 @@ Dokumen ini berisi progres pembelajaran materi HTML dan CSS beserta tugas yang d
 |--------------------------------|--------------------------|
 | Tag-tag dasar HTML             | ✅ Sudah dipahami        |
 | Tag-tag lanjutan HTML          | ✅ Sudah dipahami        |
-| **Total Capaian**              | **70%**                  |
+| **Total Capaian**              | **60%**                  |
 
 Pemahaman siswa terhadap materi HTML sudah berjalan dengan baik, mulai dari dasar hingga lanjutan.
 
