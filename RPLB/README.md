@@ -60,7 +60,7 @@ Berikut soal tugas yang telah dicatat siswa di buku catatan masing-masing dan di
 # ✍️ Pengesahan
 <br>
 Mengetahui,
-Guru Pengganti Kelas RPL A
+Guru Pengganti Kelas RPL B
  
 <br>
 <br>
