@@ -67,3 +67,9 @@ Guru Pengganti Kelas RPL B
 <br>
 
 **( Muhammad Syamsul Ma'rif,S.Si )**
+**( Syahril Ardian )**
+**( La Ode Alma Arif Bahari )**
+**( Teguh Surya Putra Amanu )**
+**( Wa Ode Ila )**
+**( Queenda Fitriani Landimasa )**
+**( Nismawati )**
