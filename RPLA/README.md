@@ -52,7 +52,7 @@ Sistem penilaian menggunakan format **rebutan** yang dimainkan secara berkelompo
 | 10 | Laode Muh. Naizar - Zaki |
 | 11 | Amaludin Masir |
 
-### 📊 Rekap Skor Kuis (contoh)
+### 📊 Rekap Skor Kuis (skor final)
 
 | Kelompok | Soal Benar | Total Skor | Skor Maksimum |
 |----------|------------|------------|----------------|
