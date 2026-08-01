@@ -17,52 +17,22 @@ Berkas ini mencatat perkembangan hasil belajar siswa dari sisi capaian materi ma
 
 | Kelas  | Jumlah Siswa (contoh) | Mata Pelajaran Produktif (contoh) |
 |--------|------------------------|-------------------------------------|
-| RPL A  | 32                     | Pemrograman Web, Basis Data         |
-| RPL B  | 30                     | Pemrograman Web, Basis Data         |
-| RPL C  | 31                     | Pemrograman Web, Basis Data         |
+| RPL A  | 32                     | Program Keahlian                    |
+| RPL B  | 30                     | Program Keahlian                    |
+| RPL C  | 31                     | Program Keahlian                    |
 
 ## 📁 Struktur Berkas (contoh)
 
 ```
-hasil-belajar-tugas-rpl/
-├── README.md
-├── hasil-belajar/
-│   ├── rpl_a_hasil_belajar.csv
-│   ├── rpl_b_hasil_belajar.csv
-│   └── rpl_c_hasil_belajar.csv
-├── daftar-tugas/
-│   ├── rpl_a_tugas.csv
-│   ├── rpl_b_tugas.csv
-│   └── rpl_c_tugas.csv
-└── rekap/
-    └── rekap_semester.xlsx
+x-rpl-evaluation/
+├── README.md <- global
+├── RPLA
+│   ├── README.md <- report hasil belajar dengan tugas RPL A
+├── RPLB
+│   ├── README.md <- report hasil belajar dengan tugas RPL B
+├── RPLC
+│   ├── README.md <- report hasil belajar dengan tugas RPL C
 ```
-
-## 📊 Contoh Format Hasil Belajar
-
-| No | Nama Siswa | Kelas | Materi/Kompetensi         | Capaian (%) | Status         |
-|----|------------|-------|-----------------------------|-------------|----------------|
-| 1  | Contoh A   | RPL A | Pemrograman Dasar Web       | 88          | Tuntas         |
-| 2  | Contoh B   | RPL B | Struktur Basis Data         | 70          | Perlu Remedial |
-| 3  | Contoh C   | RPL C | Desain Antarmuka (UI/UX)    | 92          | Tuntas         |
-
-## 📝 Contoh Daftar Tugas yang Diberikan
-
-| No | Kelas | Mata Pelajaran     | Judul Tugas                     | Tanggal Diberikan | Deadline    | Status Pengumpulan |
-|----|-------|---------------------|----------------------------------|--------------------|-------------|----------------------|
-| 1  | RPL A | Pemrograman Web     | Membuat Landing Page Sederhana  | 01-07-2026         | 08-07-2026  | Selesai              |
-| 2  | RPL B | Basis Data          | Merancang ERD Sistem Perpustakaan | 03-07-2026       | 10-07-2026  | Belum Selesai        |
-| 3  | RPL C | Pemrograman Web     | Membuat Form Login & Validasi   | 05-07-2026         | 12-07-2026  | Selesai              |
-
-> Kolom **Status Pengumpulan** dapat diisi: *Selesai*, *Belum Selesai*, *Terlambat*, atau *Tidak Mengumpulkan*.
-
-## 📈 Rekap Capaian Per Kelas (contoh)
-
-| Kelas  | Rata-rata Capaian (%) | Jumlah Tugas Diberikan | Jumlah Tugas Selesai |
-|--------|-------------------------|--------------------------|--------------------------|
-| RPL A  | 85                      | 12                        | 11                        |
-| RPL B  | 78                      | 12                        | 9                         |
-| RPL C  | 89                      | 12                        | 12                        |
 
 ## 🔄 Alur Pendokumentasian
 
