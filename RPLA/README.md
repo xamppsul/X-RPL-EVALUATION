@@ -99,3 +99,17 @@ HTML Dasar → CSS Dasar → CSS Lanjutan (Selector) → JavaScript Dasar → In
 - Data skor kuis dapat diperbarui setelah sesi berlangsung
 - Tugas selector CSS lanjutan menjadi syarat sebelum lanjut ke materi JavaScript
 - Progres pembelajaran ini bersifat dinamis dan dapat disesuaikan dengan kecepatan pemahaman siswa di kelas
+
+
+# ✍️ Pengesahan
+ 
+<br>
+<br>
+Mengetahui,
+Pengajar Kelas RPL A
+ 
+<br>
+<br>
+<br>
+______________________________
+**( Nama Terang )**
