@@ -102,8 +102,6 @@ HTML Dasar → CSS Dasar → CSS Lanjutan (Selector) → JavaScript Dasar → In
 
 
 # ✍️ Pengesahan
- 
-<br>
 <br>
 Mengetahui,
 Pengajar Kelas RPL A
@@ -111,5 +109,6 @@ Pengajar Kelas RPL A
 <br>
 <br>
 <br>
+
 ______________________________
 **( Nama Terang )**
