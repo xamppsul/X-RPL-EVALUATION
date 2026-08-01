@@ -104,11 +104,10 @@ HTML Dasar → CSS Dasar → CSS Lanjutan (Selector) → JavaScript Dasar → In
 # ✍️ Pengesahan
 <br>
 Mengetahui,
-Pengajar Kelas RPL A
+Guru Pengganti Kelas RPL A
  
 <br>
 <br>
 <br>
 
-______________________________
-**( Nama Terang )**
+**( Muhammad Syamsul Ma'rif,S.Si )**
