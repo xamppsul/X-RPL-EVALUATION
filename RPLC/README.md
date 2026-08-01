@@ -51,15 +51,13 @@ HTML Dasar → HTML Lanjutan → CSS Dasar → CSS Lanjutan
 
 ---
 
-## ✍️ Pengesahan
+# ✍️ Pengesahan
 <br>
-
 Mengetahui,
-Pengajar Kelas RPL C
-
+Guru Pengganti Kelas RPL C
+ 
 <br>
 <br>
 <br>
 
-______________________________
-**( Nama Terang )**
+**( Muhammad Syamsul Ma'rif,S.Si )**
