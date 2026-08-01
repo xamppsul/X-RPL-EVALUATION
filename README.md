@@ -15,11 +15,11 @@ Berkas ini mencatat perkembangan hasil belajar siswa dari sisi capaian materi ma
 
 ## 🏫 Cakupan Kelas
 
-| Kelas  | Jumlah Siswa (contoh) | Mata Pelajaran Produktif (contoh) |
-|--------|------------------------|-------------------------------------|
-| RPL A  | 32                     | Program Keahlian                    |
-| RPL B  | 30                     | Program Keahlian                    |
-| RPL C  | 31                     | Program Keahlian                    |
+| Kelas  | Mata Pelajaran Produktif (contoh) |
+|--------|-----------------------------------|
+| RPL A  | Program Keahlian                  |
+| RPL B  | Program Keahlian                  |
+| RPL C  | Program Keahlian                  |
 
 ## 📁 Struktur Berkas (contoh)
 
